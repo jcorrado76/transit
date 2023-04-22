@@ -15,6 +15,7 @@ pymilvus = "2.1.1" # downgraded 2.2.7 -> 2.1.1 to support grcpcio 1.54.0
 requests = "^2.28.2"
 loguru = "^0.7.0"
 urllib3 = "^1.26.15"
+httpx = "^0.24.0"
 
 
 [tool.poetry.group.dev.dependencies]
